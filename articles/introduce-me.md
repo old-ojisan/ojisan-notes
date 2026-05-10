@@ -8,3 +8,5 @@ published: true       # false にするとドラフト保存
 
 GitHubとZennを初めてつないでみました。
 よろしくお願いします。
+
+オールドおじさん
