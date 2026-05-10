@@ -1,6 +1,6 @@
 ---
 title: "Zenn始めました"
-emoji: ""
+emoji: "🍀"
 type: "idea"
 topics: ["GitHub"]
 published: true       # false にするとドラフト保存
